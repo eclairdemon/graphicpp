@@ -1,0 +1,32 @@
+## GRAPHICAL
+[x] Fix font rendering!
+[x] Make colors prettier
+[ ] Add option to render node values
+[ ] Display graph stats on the right
+
+## FUNCTIONAL
+### CONTROLS
+[x] Add right click to delete
+[x] Change "move node" to CTRL+click, "draw edge" to just click/hold
+[ ] Add double click to change node data
+[ ] Add method to change colors
+[ ] Add customizable controls, lol
+
+### FEATURES
+[ ] Add support for directed graphs
+[ ] Add support for non-simple graphs
+[ ] Add algorithm to "prettify" graphs (springs?)
+[ ] Add option to generate random graph?
+
+### MISC
+[ ] Add better way to modify config...
+[ ] Add support to paste adj matrix (maybe vim-style fast input?)
+[ ] Add option to switch from 0- to 1-based indexing and v/v
+[ ] Add option to change node z-axis alignment?
+
+
+
+PLANNED CONTROLS:
+Shift click          | change node display value
+Ctrl click           | Move node
+Ctrl+alt+shift click | change node color
